@@ -1,11 +1,12 @@
 .head {
-  background: #fc0;
   height: 100px;
-  position: relative;
+  text-align: center;
   width: 100px;
   border-radius: 50px;
 }
 .face {
+    background: #fc0;
+    padding: 20px;
   font-family: "courier new", serif;
   font-size: 2.5em;
   font-weight: bold;
