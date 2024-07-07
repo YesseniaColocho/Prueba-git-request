@@ -2,6 +2,7 @@
   height: 100px;
   text-align: center;
   width: 100px;
+  border-radius: 50px;
 }
 .face {
     background: #fc0;
